@@ -1,0 +1,23 @@
+div {
+	margin: 100px;
+	padding-left: 15px;
+	width: 800px;
+	height: 400px;
+	background-color: green;
+	color: #fff;
+}
+
+form { 
+display: none;
+}
+
+textarea {
+	margin: 100px;
+	padding: 0 0 0 15px;
+	border: none;
+	resize: none;
+	width: 800px;
+	height: 400px;
+	background-color: green;
+	color: #fff;
+}
